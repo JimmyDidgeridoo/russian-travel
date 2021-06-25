@@ -1,0 +1,16 @@
+.places {
+    margin: 0 auto;
+    padding: 92px 48px;
+    /*padding: 92px 0;768*/
+    /*width: 100%;*/
+    max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    /*box-sizing: border-box;*/
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .places {
+        padding: 92px 24px;
+    }
+}
