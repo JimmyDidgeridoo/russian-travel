@@ -1,5 +1,5 @@
 .cover__wrapper {
-  position: absolute;/*just steal it from css-tricks*/
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
