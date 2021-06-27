@@ -17,7 +17,7 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     .place {
-        column-gap: 28px; 
+        column-gap: 28px;
     }
     .place:not(:last-child) {
         margin-bottom: 73px;
@@ -26,12 +26,11 @@
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
     .place {
-        display:flex;
+        display: flex;
         flex-wrap: wrap;
         flex-direction: column;
         align-items: stretch;
     }
-
     .place:not(:last-child) {
         margin-bottom: 50px;
     }

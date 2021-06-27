@@ -2,25 +2,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0 48px 56px 48px;
-    /*margin: 0 48px 48px 48px; для 1024
-     margin: 0 24px 48px 24px; для 768*/
 }
-
-/*
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-    .header {
-        margin: 0 48px 48px 48px;
-    }
-}
-*/
-
-/*
-@media screen and (min-width: 320px) and (max-width: 768px) {
-    .header {
-        margin: 0 24px 48px 24px;
-    }
-  }
-*/
 
 @media screen and (min-width: 1024px) {
     .header {
@@ -39,4 +21,3 @@
         margin: 0 16px 48px 16px;
     }
 }
-
