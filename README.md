@@ -21,3 +21,21 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+
+# Second-sprint
+Russian travel
+
+## Synopsis
+A little landing about russian travel
+
+## Built With
+
+* HTML
+* CSS
+* BEM
+* Gallons of coffee
+
+## Authors
+
+* **Dmitrii Bundin** - [JimmyDidgeridoo](https://github.com/JimmyDidgeridoo)
