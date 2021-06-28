@@ -1,20 +1,19 @@
-# Third-sprint
-Russian travel
+# Третий спринт
+Путешествия по России
 
-## Synopsis
-A little landing about russian travel
+## Описание
+Небольшой лэндинг о путешествиях по России
 
-## Built With
+## Сделано с помощью
 
 * HTML
 * CSS
-* BEM
-* Gallons of coffee
+* БЭМ
 
-## Authors
+## Автор
 
-* **Dmitrii Bundin** - [JimmyDidgeridoo](https://github.com/JimmyDidgeridoo)
+* **Дмитрий Бундин** - [JimmyDidgeridoo](https://github.com/JimmyDidgeridoo)
 
-## GitHubPages
+## Ссылка
 https://jimmydidgeridoo.github.io/russian-travel/
 
